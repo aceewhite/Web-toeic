@@ -47,6 +47,6 @@ Sau khi đã cài đặt và chạy ứng dụng, bạn có thể truy cập và
 - Trần Tuấn Đạt
 - Đinh Minh Vũ
 
-## Tài khoản sử dụng
+## Tài khoản sử dụng admin
 tk : vuhoangan20052005@gmail.com
 mk : 123456789
