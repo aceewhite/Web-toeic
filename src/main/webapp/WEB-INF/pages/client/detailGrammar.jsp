@@ -101,8 +101,8 @@
 					<!-- -->
 					<div class="postmetadata">
 						<ul>
-							<li><i class="icon-user"></i> <a href="#">SoICT-HUST</a></li>
-							<li><i class="icon-calendar"></i><a href="#">May, 2019</a></li>
+							<li><i class="icon-user"></i> <a href="#"></a></li>
+							<li><i class="icon-calendar"></i><a href="#"></a></li>
 							<li><i class="icon-comment"></i> <a href="#"> ${countCmt}
 									Comments </a></li>
 						</ul>
