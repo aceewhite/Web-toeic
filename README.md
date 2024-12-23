@@ -31,20 +31,23 @@ Vào Spring Tool Suit 4 , Vào File -> Open Projects from File System -> Ở ph�
 Sau khi đã cài đặt và chạy ứng dụng, bạn có thể truy cập vào trình duyệt và mở địa chỉ `http://localhost:8080/webtoeic` để sử dụng ứng dụng.
 
 4.Note: Một số lỗi có thể xảy ra khi chạy
-Lỗi 1 : Cổng 8080 đang bị App khác dùng
+
+Lỗi 1 : Cổng 8080 đang bị App khác dung
+
 Mở Command Prompt và chạy lệnh:
-'''bash
+
 netstat -ano | findstr :8080
-'''
+
 Lệnh này sẽ hiển thị danh sách các tiến trình sử dụng cổng 8080. Kết quả trông như sau:
-'''bash
+
 TCP    127.0.0.1:8080      0.0.0.0:0      LISTENING      <PID>
-'''
-Ghi lại PID (Process ID) của tiến trình đang sử dụng cổng 8080.
+
+Ghi lại PID (Process ID) của tiến trình đang sử dụng cổng 8080
+
 Chạy tiếp lệnh sau để mở lại cổng 8080
-'''bash
+
 tasklist | findstr <PID>
-'''
+
 Thay số <PID> bằng số PID tìm được
 
 
@@ -61,4 +64,4 @@ Thay số <PID> bằng số PID tìm được
 
 ## Tài khoản sử dụng admin
 tk : acizindahouse@gmail.com
-mk : 123456789
+mk : 12345678
